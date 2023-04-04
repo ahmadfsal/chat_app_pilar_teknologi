@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "255545387918",
+    "project_id": "chat-app---pilar-teknologi",
+    "storage_bucket": "chat-app---pilar-teknologi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255545387918:android:104482fc068624c24492df",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_pilar_teknologi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255545387918-an57l1ghbf2icde5qrdnbggaof1egbt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app_pilar_teknologi",
+            "certificate_hash": "f4f375be6459dbea91ece40039daf3802b7314e8"
+          }
+        },
+        {
+          "client_id": "255545387918-genrr7b7rikrmkugg1rit9fherls3tdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw9_kyidpGWUzqis2mUJWtii0ovyWNTus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255545387918-genrr7b7rikrmkugg1rit9fherls3tdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
